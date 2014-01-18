@@ -2,4 +2,4 @@
 
 Search cn WoW armory for character data.
 
-[!Screenshot]{../blob/screenshot.png}
+[!Screenshot]{../master/screenshot.png?raw=true}
